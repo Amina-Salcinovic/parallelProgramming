@@ -1,5 +1,5 @@
 
-[!spreadsheet](resources/tests.png)
+[!spreadsheet](tests.png)
 
 [!spreadsheet](https://docs.google.com/spreadsheets/d/116KYmO580Z54Oe_s_p5Hut8hCsS4nybSSYqyommqGUs/edit?gid=0#gid=0)
 
