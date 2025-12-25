@@ -1,4 +1,7 @@
 # ParallelComputing
+Generated .csv file 
+
+![terminal1](./resources/terminal1.png)
 
 Main differences between executions
 
